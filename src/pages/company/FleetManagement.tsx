@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Home, Truck, AlertTriangle, CheckCircle, Clock, MapPin, Navigation } from 'lucide-react';
+import { Truck, AlertTriangle, CheckCircle, Clock, MapPin, Navigation } from 'lucide-react';
 import { useState, useEffect } from 'react';
 
 export default function FleetManagement() {

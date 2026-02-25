@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Home, TrendingDown, Clock, Fuel, DollarSign, MapPin, Brain } from 'lucide-react';
+import { TrendingDown, Clock, Fuel, DollarSign, MapPin, Brain } from 'lucide-react';
 import { routeOptimization } from '../../data/mockData';
 
 export default function RouteOptimization() {
